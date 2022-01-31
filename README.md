@@ -1,3 +1,8 @@
 # Emoji-Png
 
-Backup of Twitter and Mozilla Emoji png files
+Twitter and Mozilla Emoji `.png` version
+
+## Credit 
+
+- [Twitter Emoji](https://github.com/twitter/twemoji)
+- [Mozilla Emoji](https://github.com/mozilla/fxemoji)
