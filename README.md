@@ -1,6 +1,6 @@
 # Emoji-Png
 
-Twitter and Mozilla Emoji `.png` version
+Twitter and Mozilla Emoji `.png` version, all with 512x512 size
 
 ## Credit 
 
